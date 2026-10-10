@@ -1,0 +1,15 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# Local / temp
+_index_pretty.txt
+*.log
+.env
+.env.*
